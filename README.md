@@ -5,7 +5,7 @@ Movies come with subtitles. `srt` is one of the famous subtitle formats. They ha
 ## Task
 
 Choose any movie you like and find the subtitle file. Write a script using any language of your preference to extract the wording and generate a file containing the dialogs in human readable format without timestamps and encodings that are not words.
-
+keofmdlvmlvmfdlkvmlkvmklvgfmfkl
 Open a new issue for every movie script entry you make and send a PR fixing that issue.
 
 ### Example
